@@ -149,3 +149,4 @@ if __name__ == '__main__':
                 writer.append_data(image)
             image = imageio.imread(filename)
             writer.append_data(image)
+    print("hello")
